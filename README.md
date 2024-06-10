@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 🙏 I'm Dimakis Konstantinos</h1>
-<h3 align="center">21 years old studying computer science @ Athens University of Economics and Business</h3>
+<h3 align="center">22 years old studying computer science @ Athens University of Economics and Business</h3>
 
 - 👨🏻‍💻 Currently studying **Human and computer interaction, Information retrieval, Elements of inforamtion law, Application development, Technological innovation and entrepreneurship**
 
