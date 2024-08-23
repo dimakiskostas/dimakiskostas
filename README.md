@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 🙏 I'm Dimakis Konstantinos</h1>
 <h3 align="center">22 years old studying computer science @ Athens University of Economics and Business</h3>
 
-- 👨🏻‍💻 Currently studying **Human and computer interaction, Information retrieval, Elements of inforamtion law, Application development, Technological innovation and entrepreneurship**
+- 👨🏻‍💻 Currently working as a Data Analyst at Hellenic Development Bank (HDB) 
 
 - 💡 Interested in **📊 Data science and 🔐 Cybersecurity**
 
@@ -9,7 +9,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/konstantinos-dimakis-92998819a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/konstantinos-dimakis-92998819a/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/konstantinos-dimakis-92998819a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/konstantinos-dimakis-92998819a/" height="30" width="40" /></a>
 <a href="https://discord.gg/takingitpersonal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="takingitpersonal" height="30" width="40" /></a>
 </p>
 
