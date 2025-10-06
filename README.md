@@ -1,9 +1,7 @@
 <h1 align="center">Welcome 🙏 I'm Dimakis Konstantinos</h1>
-<h3 align="center">22 years old studying computer science @ Athens University of Economics and Business</h3>
+<h3 align="center">23 year old Software engineer at HDB</h3>
 
-- 👨🏻‍💻 Currently working as a Data Analyst at Hellenic Development Bank (HDB) 
-
-- 💡 Interested in **📊 Data science and 🔐 Cybersecurity**
+- 💡 Interested in **📊 Data science**
 
 - 📫 **costasdhm2002@gmail.com**
 
